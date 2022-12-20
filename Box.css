@@ -1,0 +1,23 @@
+/* *{
+    background-color: lightcoral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+.dispNone
+{
+  display: none !important;
+}
+#btn-1,#time
+{
+  display: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input
+{
+    width: 20% !important;
+}
